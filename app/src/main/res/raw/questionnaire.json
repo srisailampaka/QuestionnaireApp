@@ -1,0 +1,55 @@
+{
+  "questions": [
+    {
+      "question": "What is your gender?",
+      "options": [
+        {
+          "answer": "Teamwork is in my blood",
+          "marks": 5
+        },
+        {
+          "answer": "Yes, I do",
+          "marks": 3
+        },
+        {
+          "answer": "I prefer to work alone",
+          "marks": 0
+        }
+      ]
+    },
+    {
+      "question": "How long have you been working with Java?",
+      "options": [
+        {
+          "answer": "Never",
+          "marks": 0
+        },
+        {
+          "answer": "Less than 1 year",
+          "marks": 1
+        },
+        {
+          "answer": "Less than 2 years",
+          "marks": 3
+        },
+        {
+          "answer": "More than 3 years",
+          "marks": 5
+        }
+      ]
+    },
+    {
+      "question": "How do you feel about automated tests?",
+      "options": [
+        {
+          "answer": "Mandatory",
+          "marks": 3
+        },
+        {
+          "answer": "Waste of time",
+          "marks": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuestionnaireApp</string>
+    <string name="loading">Loading...</string>
+    <string name="swipe">Swipe Left and Right to see the questions</string>
+    <string name="not_answer">Please answer the all questions </string>
+    <string name="network_error">Please check the connectivity </string>
+    <string name="dont_match">Unfortunately, we don’t match!</string>
+    <string name="looks_good">That looks good!</string>
+    <string name="excellent">Excellent!</string>
+
+</resources>
